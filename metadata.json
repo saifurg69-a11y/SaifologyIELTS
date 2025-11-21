@@ -1,0 +1,8 @@
+{
+  "name": "IELTS GenAI Master",
+  "description": "A comprehensive IELTS practice application powered by Gemini 2.5 and 3.0 models, featuring Live API speaking practice, Veo video generation for study aids, and advanced image editing.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
